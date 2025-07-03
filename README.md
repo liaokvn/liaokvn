@@ -1,7 +1,7 @@
 # Hello, I'm Kevin
 <a href="https://linkedin.com/in/kevinliao-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with hands-on expereince in IT supprt, threat detection, and SIEM operations. I enjoy solving real-world security challenges and building projects that reflect my passion for protecting systems and data.
+As a recent cybersecurity graduate with hands-on experience in IT support and SOC operations, my goal is to leverage technical skills in threat detection, log analysis, and system hardening to contribute to securing enterprise environments. I’m actively building projects that simulate real-world attacks and defenses to sharpen my ability to detect, respond to, and mitigate cyber threats.
 
 ## Objective
 
