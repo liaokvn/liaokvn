@@ -2,7 +2,7 @@
 
 Security professional transitioning into Governance, Risk & Compliance (GRC), with a background in IT support, access management, and cloud security. I hold CompTIA Security+, Network+, CySA+, and AWS Security Specialty certifications, and I'm currently building hands-on GRC experience through self-directed projects spanning compliance frameworks, risk management, vendor assessment, incident response, and internal audit.
 
-📍 Brooklyn, NY | 📧 kevinliao.0627@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/kevinliao-cs)
+📍 Brooklyn, NY | 📧 kevinliao.0627@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/kevinliao-cyber)
 
 ---
 
