@@ -7,7 +7,7 @@ Security professional transitioning into Governance, Risk & Compliance (GRC), wi
 ---
 
 ## 🎓 Certifications
-`CompTIA Security+` `CompTIA Network+` `CompTIA CySA+` `AWS Certified Security – Specialty` `AWS Certified Advanced Networking – Specialty`
+`Comptia SecurityX` `CompTIA Security+` `CompTIA Network+` `CompTIA CySA+` `AWS Certified Security – Specialty` `AWS Certified Advanced Networking – Specialty` 
 
 ## 🧰 Frameworks
 NIST 800-53/RMF · ISO 27001/31000 · SOC 2 (CC1–CC9) · HIPAA
